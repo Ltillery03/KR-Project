@@ -1,6 +1,6 @@
 html {
     background-color: black;
-    color: blueviolet;
+    color: rgb(102,199,241);
 }
 
 table {
@@ -33,32 +33,32 @@ table {
     position: relative;
 }
 #Return {
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 #Return:hover {
-    color: darkmagenta;
+    color: red;
 }
 #Return:active {
-    color: blue;
+    color: whitesmoke;
 }
 #Yeji {
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 #Lia {
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 #Lia:hover {
-    color: darkmagenta;
+    color: rgb(164, 232, 149);
 }
 #Yeji:hover {
-    color: darkmagenta;
+    color: rgb(241,132,213);
 }
 #Yeji:active {
-    color: blue;
+    color: whitesmoke;
 }
 #Lia:active {
-    color: blue;
+    color: whitesmoke;
 }

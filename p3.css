@@ -1,6 +1,6 @@
 html {
     background-color: black;
-    color: blueviolet;
+    color: rgb(241,132,213);
 }
 
 table {
@@ -33,32 +33,33 @@ table {
     position: relative;
 }
 #Return {
-    color: red;
+    color: white;
     text-decoration: underline;
 }
 #Return:hover {
-    color: darkmagenta;
+    color: red;
 }
 #Return:active {
-    color: blue;
-}
-#Yuna {
-    color: red;
-    text-decoration: underline;
+    color: whitesmoke;
 }
 #Lia {
-    color: red;
+    color: white;
+    text-decoration: underline;
+}
+#Yuna {
+    color: white;
+    text-decoration: underline;
+}
+#Yuna:hover {
+    color: rgb(102,199,241);
+}
+#Lia {
+    color: white;
     text-decoration: underline;
 }
 #Lia:hover {
-    color: darkmagenta;
-}
-#Yuna:hover {
-    color: darkmagenta;
+    color: rgb(164, 232, 149);
 }
 #Yuna:active {
-    color: blue;
-}
-#Lia:active {
-    color: blue;
+    color: whitesmoke;
 }
