@@ -1,0 +1,64 @@
+html {
+    background-color: black;
+    color: blueviolet;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Overview1 {
+    text-align: center;
+}
+
+.bio {
+    text-align: center;
+    font-size: 1.2em;
+    font: Arial Narrow, sans-serif;
+}
+
+#Yuna {
+    align-items: right;
+    width: 400px;
+    height: 400px;
+}
+
+.Data {
+    box-sizing: border-box;
+    border: solid 2px white;
+    padding: 10px;
+    width: 750px;
+    height: 600px;
+    position: relative;
+}
+#Return {
+    color: red;
+    text-decoration: underline;
+}
+#Return:hover {
+    color: darkmagenta;
+}
+#Return:active {
+    color: blue;
+}
+#Yeji {
+    color: red;
+    text-decoration: underline;
+}
+#Lia {
+    color: red;
+    text-decoration: underline;
+}
+#Lia:hover {
+    color: darkmagenta;
+}
+#Yeji:hover {
+    color: darkmagenta;
+}
+#Yeji:active {
+    color: blue;
+}
+#Lia:active {
+    color: blue;
+}

@@ -1,0 +1,29 @@
+html *{
+    background-color: black;
+    color: blueviolet;
+}
+table {
+    width: 100%;
+    border-bottom: 5px solid;
+    border-color: white;
+    text-decoration: underline;
+    margin-bottom: 200px;
+}
+th :hover {
+    color: darkmagenta;
+}
+
+th :active {
+    color: blue;
+}
+#filler {
+    text-align: center;
+    font-size: 40px;
+
+}
+#Eve {
+    width: 100px;
+    height: 100px;
+    float: right;
+    
+}
